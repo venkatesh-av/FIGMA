@@ -17,3 +17,7 @@
   word-wrap: break-word;
   margin-left: 10px;
 }
+
+.label-with-logo-container:hover {
+  background: rgba(208, 235, 255, 0.65);
+}

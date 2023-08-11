@@ -159,6 +159,18 @@ body::-webkit-scrollbar {
   word-wrap: break-word;
   margin-left: 10px;
 }
+.canvas-div1 {
+  width: 100%;
+
+  align-items: center;
+  /* padding: 8.3px;
+  background: white;
+  border: 0.5px #dadada solid;
+  display: flex;
+  justify-content: center;
+  border-left-width: 0px;
+  border-right-width: 0px; */
+}
 
 .canvas-div {
   width: 100%;
